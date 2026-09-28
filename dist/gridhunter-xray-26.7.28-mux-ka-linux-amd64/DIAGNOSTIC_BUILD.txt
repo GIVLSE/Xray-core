@@ -1,0 +1,10 @@
+purpose=GridHunter diagnostic Origin runtime only
+upstream_repository=XTLS/Xray-core
+upstream_tag=v26.7.28
+upstream_commit=5ca6f4b7d4dc20a881d4330e498892697627ec0c
+backport_repository=Medium1992/Xray-core-fork
+backport_commit=6a8d720f338206fe21fe8bb4fd8163fb70b6d4d7
+build_marker=gridhunter-mux-ka-6a8d720f
+goos=linux
+goarch=amd64
+sha256=5fccc8363bc94daa08f8b52f69426eb898a8444d24471304db6c2c92b378f252
